@@ -1,0 +1,20 @@
+{
+  "name": "blog-mern",
+  "version": "1.0.0",
+  "description": "Projeto de estudo da mern stack utilizando TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch index.ts"
+  },
+  "author": "Walisson (Sileniz)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "tsx": "^4.16.5",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2"
+  }
+}
